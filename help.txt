@@ -1,0 +1,26 @@
+How to use the application:
+
+
+1. The components you can use are in the menu area on the left side of the screen. All basic logic gates, adders and a switch are provided here.
+
+2. Select a component by clicking on it. You can only click on one at a time.
+
+3. Click anywhere on the canvas to place the gate at that point. 
+
+4. If you place a gate in the wrong position, unselect the button you have already clicked. Then click on the delete button and then on the gate you wish to delete.
+
+5. The little red squares on the inputs and outputs of a component are called sockets.
+
+6. To connect two components, click on the output socket of one component first. YOU CAN ONLY START FROM AN OUTPUT SOCKET.
+
+7. You are now allowed to click on five points on the screen to define the path you want your connector to take. You may also click on the destination input socket directly to connect.
+
+8. Click on a switch to toggle the input value.
+
+9. The colour of the sockets indicates the value at that socket. Blue sockets have value 1, black indicate value 0 and red indicates that the value has not been set.
+
+10. Refer to the messages in the status area for any information.
+
+11. Click on the submit button to evaluate the output of your circuit.
+
+12. Click on the save button to save your circuit as a picture.
